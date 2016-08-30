@@ -1,2 +1,2 @@
 # pidcrypt
-copy form https://sourceforge.net/projects/pidcrypt/
+Copy from https://sourceforge.net/projects/pidcrypt/
