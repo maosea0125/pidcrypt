@@ -1,7 +1,7 @@
 # pidcrypt
 Copy from https://sourceforge.net/projects/pidcrypt/
 
-<code>
+```javascript
   <script type="text/javascript" src="javascripts/pidcrypt.js"></script>  
   <script type="text/javascript" src="javascripts/jquery-1.12.4.min.js"></script>  
   <script type="text/javascript" src="javascripts/pidcrypt_util.js"></script>  
@@ -25,4 +25,4 @@ Copy from https://sourceforge.net/projects/pidcrypt/
   
     var data = pidCryptUtil.encodeBase64(pidCryptUtil.convertFromHex(data));
   </script>
-</code>
+```
