@@ -28,7 +28,7 @@ Copy from https://sourceforge.net/projects/pidcrypt/
   </script>
 ```
 
-JS生成密钥对，将公钥使用的n和d提交给服务端，服务端使用PHP加密数据，JS获取到服务端数据进行解密：
+JS生成密钥对，将公钥使用的n和e提交给服务端，服务端使用PHP加密数据，JS获取到服务端数据进行解密：
 ```javascript
   <script type="text/javascript" src="javascripts/pidcrypt.js"></script>  
   <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
