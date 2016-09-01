@@ -1,6 +1,7 @@
 # pidcrypt
 Copy from https://sourceforge.net/projects/pidcrypt/
 
+根据modulus和exponent加密数据：
 ```javascript
   <script type="text/javascript" src="javascripts/pidcrypt.js"></script>  
   <script type="text/javascript" src="javascripts/jquery-1.12.4.min.js"></script>  
