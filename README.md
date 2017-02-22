@@ -1,6 +1,8 @@
 # pidcrypt
 Copy from https://sourceforge.net/projects/pidcrypt/
 
+pidCrypt is a crypto library offering modular cryptographic functions in JavaScript. Supports: AES (CBC & CTR Mode), RSA, MD5, SHA-1, SHA-256, SHA-384, SHA-512, ASN.1, Base64, UTF-8. The AES-CBC mode is compatible to OpenSSL.
+
 根据modulus和exponent加密数据：
 ```javascript
   <script type="text/javascript" src="javascripts/pidcrypt.js"></script>  
